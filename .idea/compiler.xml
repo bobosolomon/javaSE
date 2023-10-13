@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="day08-api-String" />
+        <module name="ATM" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="day08-api-String" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
